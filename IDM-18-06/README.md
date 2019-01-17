@@ -15,7 +15,7 @@ https://github.com/stankin/inet-2018/invitations
 | Киляков Данил Александрович | -  | By the way to Dmitrov | [Страница](https://github.com/DanilKilyakov) | [Отчет](https://danilkilyakov.github.io/) | [Проект](https://github.com/gerafko/Rails-Project) | 50 | - |
 | Терентьев Владимир Александрович | -  | РКТ тим | [Страница](https://github.com/vlaterz) | [Отчет](https://vlaterz.github.io) | [Проект](-) | 40 | - |
 | Касаткин Даниил Игоревич | -  | РКТ тим | [Страница](https://github.com/MajorLabrador) | | [Проект](-) | - | - |
-| Распопов Максим Тимофеевич | -  | РКТ тим | [Страница](https://github.com/Maxim-Raspopov) | [Отчет](https://maxim-raspopov.github.io/) | [Проект](-) | - | - |
+| Распопов Максим Тимофеевич | -  | РКТ тим | [Страница](https://github.com/Maxim-Raspopov) | | [Проект](-) | - | - |
 | Танашев Эльдар Хасанович | -  | crash team | [Страница](https://github.com/Adyga07) |[Отчет](https://adyga07.github.io/) | [Проект](https://adyga07.github.io/) | 35 (с опозданием) | 40 |
 | Патрушева Алина Павловна | -  | Unknowners | [Страница](https://github.com/realoveola) | [Отчет](https://realoveola.github.io) | [Проект](https://realoveola.github.io/Othello/index.html) | 43 | 45 |
 | Никитин Дмитрий Владимирович | -  | crash team | [Страница](https://github.com/nikityane) | [Отчет](https://nikityane.github.io/) | [Проект](https://nikityane.github.io/) | 40 | 50 |
@@ -25,3 +25,4 @@ https://github.com/stankin/inet-2018/invitations
 | Пучкин Евгений Олегович | - | Животные | [Страница](https://github.com/ICanSeeForever) | [Отчет](https://icanseeforever.github.io/) | [Проект](https://lokvest.github.io/MagicMath/) | 25 | 25 |
 | Гулид Анатолий Константинович | - | Животные | [Страница](https://github.com/AKGulid) | [Отчет](https://akgulid.github.io/) | [Проект](https://lokvest.github.io/MagicMath/) | 25 | 25 |
 | Яблонский Дмитрий Анатольевич | - | Уричи | [Страница](https://github.com/Yaposh) | [Отчет](https://yaposh.github.io) | [Проект](https://yaposh.github.io) | 25 | 25 |
+| Сайфутдинов Равиль Шамильевич | -  | By the way to Dmitrov | [Страница](https://github.com/RafofShadows) | [Отчет](https://rafofshadows.github.io/) | [Проект](https://github.com/gerafko/Rails-Project) | - | - |
